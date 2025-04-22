@@ -1,0 +1,18 @@
+Pandas 
+sqlalchemy 
+create_engine pymysql
+
+## Windows Command Prompt Commands
+```cmd
+:: Install Python from the official website if not installed.
+:: Make sure to check "Add Python to PATH" during installation.
+
+:: Install pip if not installed (comes with Python installations).
+python -m ensurepip --upgrade
+```
+
+# Summary of Commands
+1. **Environment Setup:** Install Homebrew (macOS) or Python (Windows).
+2. **Kaggle API Setup:** Generate API token and configure kaggle.json.
+3. **Download Datasets:** Use Kaggle API commands to download datasets and unzip them.
+4. **Install Libraries:** Use pip to install required libraries for data analysis.
